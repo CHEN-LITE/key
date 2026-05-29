@@ -5,7 +5,7 @@
       "owner": "DeviceOwner1",
       "expiry": "2026-12-31",
       "active": true,
-      "device_limit": 1,
+      "device_limit": 500,
       "used_devices": []
     }
   ]

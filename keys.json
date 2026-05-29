@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "key": "DEVICE1_KEY_HERE",
+      "owner": "DeviceOwner1",
+      "expiry": "2026-12-31",
+      "active": true,
+      "device_limit": 1,
+      "used_devices": []
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "keys": [
     {
-      "key": "CHENTOOL_KEY_500",
+      "key": "CHENTOOL-KEY-500",
       "owner": "DeviceOwner1",
       "expiry": "2026-12-31",
       "active": true,

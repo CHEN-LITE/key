@@ -1,12 +1,10 @@
 {
   "keys": [
     {
-      "key": "CHENTOOL-KEY",
+      "key": "CHENTOOL-KEY",  // <-- Ye key hai
       "owner": "DeviceOwner1",
       "expiry": "2026-12-31",
-      "active": true,
-      "device_limit": 500,
-      "used_devices": []
+      "active": true
     }
   ]
 }
